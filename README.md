@@ -1,4 +1,4 @@
-# Hi, I'm Lorraine!
+# 🦦 Hi, I'm Lorraine!
 
 👩🏻‍💻 Full-Stack Web Developer with a unique background in 🧬 biotech and ✍️ medical writing <br/> 
 ✨ Skilled in documentation and the complete end-to-end development cycle, including planning, design, and testing <br/> 
