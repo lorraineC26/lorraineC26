@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Lorraine!
+
+👩🏻‍💻 Full-Stack Web Developer with a unique background in 🧬 biotech and hands-on experience in ✍️ medical writing and procurement. <br/> 
+✨ Skilled in documentation and the complete end-to-end development cycle, including planning, design, and testing. <br/> 
+💖 My technical prowess, innovative problem-solving, and collaborative spirit are geared towards integrating tech solutions in healthcare and scientific research, aiming for meaningful impact.<br/> 
+
+<!-- Github status from https://github.com/anuraghazra/github-readme-stats-->
+![Lorraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorraineC26&theme=onedark&show_icons=true)
+
 
 <!--
 **lorraineC26/lorraineC26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
