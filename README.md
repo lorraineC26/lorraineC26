@@ -1,6 +1,6 @@
 # 🦦 Hi, I'm Lorraine!
 
-👩🏻‍💻 Full-Stack Web Developer with a unique background in 🧬 biotech and ✍️ medical writing <br/> 
+👩🏻‍💻 Software Developer with a unique background in 🧬 biotech and ✍️ medical writing <br/> 
 ✨ Skilled in documentation and the complete end-to-end development cycle, including planning, design, and testing <br/> 
 💖 Combining technical skills with strong problem-solving and collaborative spirit to build impactful solutions across industries <br/> 
 🚨 Don't hesitate to check out <a href="https://lorraine-cai-portfolio.vercel.app/" target="_blank">my 3D portfolio website here!</a>
